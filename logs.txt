@@ -1,0 +1,5 @@
+2024-12-11 10:00:00 - UserA - Success
+2024-12-11 10:05:00 - UserB - Error: 404 Not Found
+2024-12-11 10:10:00 - UserC - Success
+2024-12-11 10:15:00 - UserA - Success
+2024-12-11 10:20:00 - UserB - Error: 500 Internal Server Error
